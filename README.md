@@ -8,7 +8,7 @@ This is the repository where I track my iOS-development learning progress
 * [Swift Book](https://swiftbook.ru)
 
 ### December 30
-Digging deep into Optionals on Hacking with Swift (Lesson 12): [here](https://www.hackingwithswift.com/100/12)
+Digging deep into Optionals on Hacking with Swift (Day 12): [here](https://www.hackingwithswift.com/100/12)
 
 Learned about:
 * Declaring variables with ? !
