@@ -8,15 +8,15 @@ This is the repository where I track my iOS-development learning progress
 * [Swift Book](https://swiftbook.ru)
 
 ### December 30
-Digging deep into Optionals: [here](https://www.hackingwithswift.com/100/12)
+Digging deep into Optionals on Hacking with Swift (Lesson 12): [here](https://www.hackingwithswift.com/100/12)
 
 Learned about:
-* Declaring variables with **?** **!**
+* Declaring variables with ? !
 * Unwrapping optionals with **let** and **guard let**
-* Force unwrapping using **!**
-* Implicitly unwrapped optionals (Int(str))
-* Nil coalescing (**??**)
-* Optional chaining (**a?.b?.c()**)
-* Optional try (**try?** and **try!**)
-* Failable Initializer (**init?()**)
-* Typecasting (**as?** and **as!**)
+* Force unwrapping using !
+* Implicitly unwrapped optionals
+* Nil coalescing (??)
+* Optional chaining (a?.b?.c())
+* Optional try (try? and try!)
+* Failable Initializer (init?())
+* Typecasting (as? and as!)
