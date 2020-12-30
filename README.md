@@ -11,6 +11,7 @@ This is the repository where I track my iOS-development learning progress
 Digging deep into Optionals: [here](https://www.hackingwithswift.com/100/12)
 
 Learned about:
+* Declaring variables with **?** **!**
 * Unwrapping optionals with **let** and **guard let**
 * Force unwrapping using **!**
 * Implicitly unwrapped optionals (Int(str))
