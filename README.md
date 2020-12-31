@@ -43,5 +43,5 @@ Learned about:
 * Returning closures from functions
 * Capturing values
 
-Resources
-[Closure syntax in Swift](http://goshdarnclosuresyntax.com)
+Resources:
+* [Closure syntax in Swift](http://goshdarnclosuresyntax.com)
