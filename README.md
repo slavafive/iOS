@@ -45,3 +45,7 @@ Learned about:
 
 Resources:
 * [Closure syntax in Swift](http://goshdarnclosuresyntax.com)
+
+### January 1
+
+Storm Viewer Project on Hacking with Swift, part 1 (Day 16): [here](https://www.hackingwithswift.com/100/16)
