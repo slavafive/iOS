@@ -2,13 +2,24 @@
 This is the repository where I track my iOS-development learning progress
 
 # Useful resources
-Markdown:
+
+## Markdown
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 
-iOS:
+## Tutorials
 * [Hacking with Swift](https://www.hackingwithswift.com)
 * [Swift Book](https://swiftbook.ru)
+
+## Articles
+* 
+
+## Medium
+* [UIAlertController](https://medium.com/swift-india/uialertcontroller-in-swift-22f3c5b1dd68)
+* [Core Data](https://medium.com/better-programming/a-light-intro-to-core-data-part-un-e344f9d1528)
+
+## Advices
+* [What does it take to become an iOS Developer](https://medium.com/devslopes-blog/what-does-it-take-to-become-an-ios-developer-fd8150942de1)
 
 ## December
 
@@ -48,11 +59,11 @@ Resources:
 
 ### January 1
 
-Storm Viewer Project on Hacking with Swift, part 1 (Day 16): [here](https://www.hackingwithswift.com/100/16)
+**Storm Viewer** Project on Hacking with Swift, part 1 (Day 16): [here](https://www.hackingwithswift.com/100/16)
 
 ### January 2
 
-Storm Viewer Project on Hacking with Swift, part 2(Day 17): [here](https://www.hackingwithswift.com/100/17)
+**Storm Viewer** Project on Hacking with Swift, part 2(Day 17): [here](https://www.hackingwithswift.com/100/17)
 
 Learned about:
 * Every view controller have optional properties **storyboard?** that contains the storyboard they were loaded from or nil and **navigationController?** that contains the navigation controller they are inside if it exists, or nil otherwise
@@ -76,3 +87,5 @@ if let vc = storyboard?.instantiateViewController(withIdentifier: "ID") as? MyVi
   * viewDidAppear() - view has been shown
   * viewWillDisappear() - view is about to go away
   * viewDidDisappear() - view has gone away
+  
+ **Guess the Flag** Project on Hacking with Swift (Days 19-21): [here](https://www.hackingwithswift.com/read/2/overview)
