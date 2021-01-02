@@ -49,3 +49,30 @@ Resources:
 ### January 1
 
 Storm Viewer Project on Hacking with Swift, part 1 (Day 16): [here](https://www.hackingwithswift.com/100/16)
+
+### January 2
+
+Storm Viewer Project on Hacking with Swift, part 2(Day 17): [here](https://www.hackingwithswift.com/100/17)
+
+Learned about:
+* Every view controller have optional properties **storyboard?** that contains the storyboard they were loaded from or nil and **navigationController?** that contains the navigation controller they are inside if it exists, or nil otherwise
+* Instantiating view Controller:
+```swift
+if let vc = storyboard?.instantiateViewController(withIdentifier: "ID") as? MyViewController {
+  // do something
+  navigationController?.pushViewController(vc, animated: true)
+}
+```
+* UIImageView Content Mode property:
+  * Scale to Fill
+  * Aspect Fit
+  * Aspect Fill
+  
+![](https://i.stack.imgur.com/gzXIl.png)
+
+* ViewController Lifecycle:
+  * viewDidLoad() - layout has been loaded
+  * viewWillAppear() - view is about to be shown
+  * viewDidAppear() - view has been shown
+  * viewWillDisappear() - view is about to go away
+  * viewDidDisappear() - view has gone away
