@@ -92,3 +92,16 @@ if let vc = storyboard?.instantiateViewController(withIdentifier: "ID") as? MyVi
  **Social Media** Project on Hacking with Swift (Day 22): [here](https://www.hackingwithswift.com/read/3/overview)
  
  Learned about **UIActivityViewController**
+ 
+ ### January 3
+ 
+ **Flag Viewer** Milestone Project on Hacking with Swift (Day 23): [here](https://www.hackingwithswift.com/100/23)
+ 
+ **Easy Browser** Project on Hacking with Swift (Days 24-26): [here](https://www.hackingwithswift.com/read/4/overview)
+ 
+ What I started learning (needs to be digged deeper):
+ * WKWebView
+ * UIToolBar
+ * URL & URLRequest
+ * UIProgressView
+ * KVO
