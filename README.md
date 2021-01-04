@@ -105,3 +105,14 @@ if let vc = storyboard?.instantiateViewController(withIdentifier: "ID") as? MyVi
  * URL & URLRequest
  * UIProgressView
  * KVO
+ 
+ ### January 4
+ 
+ **Word Scramble** Project on Hacking with Swift (Days 27-29): [here](https://www.hackingwithswift.com/read/5/overview)
+ 
+  What I started learning (needs to be digged deeper):
+  * Capture lists (strong, weak and unowned capturing)
+  * Strong reference cycles
+  * NSRange
+  * UITextChecker
+  * Adding UIBarButtonItems to navigation bar
