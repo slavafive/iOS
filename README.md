@@ -131,3 +131,14 @@ if let vc = storyboard?.instantiateViewController(withIdentifier: "ID") as? MyVi
   * Anchors, how they work
   * SafeAreaGuides
   * DefaultMarginGuides
+  * ReadableContentGuides
+
+### January 7
+
+**Level Up in Auto Layout**
+Lessons 9-21:
+* UILayoutGuide
+* Intrinsic Content Size
+* Content Hugging & Compression Resistance
+* UILayoutPriority
+* 
