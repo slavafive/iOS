@@ -116,3 +116,18 @@ if let vc = storyboard?.instantiateViewController(withIdentifier: "ID") as? MyVi
   * NSRange
   * UITextChecker
   * Adding UIBarButtonItems to navigation bar
+  
+  ### January 6
+  
+  **Auto Layout** Project on Hacking with Swift (Days 30-31): [here](https://www.hackingwithswift.com/read/6/overview)
+  
+  What I started learning (needs to be digged deeper):
+  * Equal heights, Aspect Ratio contraints
+  * VFL (Visual Formatting Language)
+  * Anchors
+  
+  **Level Up in Auto Layout** course on Udemy: [here](https://www.udemy.com/course/level-up-in-auto-layout/)
+  Lessons 1-8:
+  * Anchors, how they work
+  * SafeAreaGuides
+  * DefaultMarginGuides
