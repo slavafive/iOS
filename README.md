@@ -145,3 +145,7 @@ Lessons 9-21:
 
 ### January 9
 Started working with StackView programmatically
+
+### January 10
+
+Milestone Project on Hacking with Swift (Day 32): [here](https://www.hackingwithswift.com/100/32)
