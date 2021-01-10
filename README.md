@@ -142,3 +142,6 @@ Lessons 9-21:
 * Intrinsic Content Size
 * Content Hugging & Compression Resistance
 * UILayoutPriority
+
+### January 9
+Started working with StackView programmatically
