@@ -12,7 +12,6 @@ This is the repository where I track my iOS-development learning progress
 * [Swift Book](https://swiftbook.ru)
 
 ## Articles
-* 
 
 ## Medium
 * [UIAlertController](https://medium.com/swift-india/uialertcontroller-in-swift-22f3c5b1dd68)
@@ -155,3 +154,5 @@ Milestone Project on Hacking with Swift (Day 32): [here](https://www.hackingwith
  **Whitehouse Petitions** Project on Hacking with Swift (Days 33-35): [here](https://www.hackingwithswift.com/read/7/overview)
  * Codable protocol
  * UITabBarController
+ 
+ **Swift Words** Project on Hacking with Swift (Days 36): [here](https://www.hackingwithswift.com/read/8/overview)
