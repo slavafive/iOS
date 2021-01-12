@@ -160,3 +160,5 @@ Milestone Project on Hacking with Swift (Day 32): [here](https://www.hackingwith
   **Swift Words** Project on Hacking with Swift (Days 36-38): [here](https://www.hackingwithswift.com/read/8/overview)
   * Auto Layout (programmatically)
   * Property observers (didSet() and willSet())
+  * Adding targets to buttons (addTarget())
+  * Useful methods: enumerated(), joined(), replacingOccurrences(), trimmingCharacters()
