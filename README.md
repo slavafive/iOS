@@ -162,3 +162,12 @@ Milestone Project on Hacking with Swift (Day 32): [here](https://www.hackingwith
   * Property observers (didSet() and willSet())
   * Adding targets to buttons (addTarget())
   * Useful methods: enumerated(), joined(), replacingOccurrences(), trimmingCharacters()
+  
+  ### January 13
+  
+  Getting familiar with GCD (was difficult to understand anything): [here](https://www.raywenderlich.com/5370-grand-central-dispatch-tutorial-for-swift-4-part-1-2)
+
+  Key words:
+  * Types of Queues: main, global, custom
+  * QoS classes: User-interactive, user-initiative, utility, background
+  * Types of tasks: synchronous, asynchronous
