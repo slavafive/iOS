@@ -12,6 +12,8 @@ This is the repository where I track my iOS-development learning progress
 * [Swift Book](https://swiftbook.ru)
 
 ## Articles
+### Grand Central Dispatch
+* [GCD Tutorial (RU)](https://medium.com/@SwiftBook.ru/туториал-по-grand-central-dispatch-для-swift-часть-1-2-993768ad4947)
 
 ## Medium
 * [UIAlertController](https://medium.com/swift-india/uialertcontroller-in-swift-22f3c5b1dd68)
