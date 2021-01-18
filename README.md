@@ -167,9 +167,12 @@ Milestone Project on Hacking with Swift (Day 32): [here](https://www.hackingwith
   
   ### January 13
   
-  Getting familiar with GCD (was difficult to understand anything): [here](https://www.raywenderlich.com/5370-grand-central-dispatch-tutorial-for-swift-4-part-1-2)
+  Getting familiar with GCD (difficult to understand):
+  * [Link 1](https://www.raywenderlich.com/5370-grand-central-dispatch-tutorial-for-swift-4-part-1-2)
+  * [Link 2](https://m.habr.com/ru/post/320152/)
+ 
 
   Key words:
-  * Types of Queues: main, global, custom
-  * QoS classes: User-interactive, user-initiative, utility, background
+  * Types of Queues: main (serial), global (concurrent), custom
+  * QoS classes: user-interactive, user-initiative, utility, background, default
   * Types of tasks: synchronous, asynchronous
