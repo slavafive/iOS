@@ -79,8 +79,6 @@ if let vc = storyboard?.instantiateViewController(withIdentifier: "ID") as? MyVi
   * Scale to Fill
   * Aspect Fit
   * Aspect Fill
-  
-![](https://i.stack.imgur.com/gzXIl.png)
 
 * ViewController Lifecycle:
   * viewDidLoad() - layout has been loaded
